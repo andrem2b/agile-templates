@@ -413,9 +413,9 @@ Spike (usually standalone, can link to Epic or User Story)
 ## 🔗 Full Template Links
 
 For complete templates with all fields and guidance:
-- See: `epic_template.md`
-- See: `user_story_template.md`
-- See: `task_template.md`
-- See: `bug_template.md`
-- See: `spike_template.md`
-- See: `subtask_template.md`
+- See: [epic.md](epic.md)
+- See: [userStory.md](userStory.md)
+- See: [task.md](task.md)
+- See: [bug.md](bug.md)
+- See: [spike.md](spike.md)
+- See: [subtask.md](subtask.md)
